@@ -33,17 +33,28 @@ Dokumen software requirement systems aplikasi Rasane Laen terlampir
 
 1.6	Gambaran umum Dokumen
 
+
 1.6.1	Deskripsi Gambaran Umum
+
 1.query pencarian
 2.data base
 3.template deskripsi
 
+
 1.6.2	Kebutuhan Fungsional
+
+
 1.pasoko komputer- sistem operasi
+
 2.printer - pencetak output
+
 3.mouse - hardware penjalan sistem
+
 4.keybiard - hardware pembantu sistem
+
 5.hvp - bukti nyata
+
+
 
 2.	DESKRIPSI UMUM
 2.3	Hardware Interface
